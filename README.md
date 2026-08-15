@@ -25,5 +25,5 @@ Displays weather information.
 
 ## Contact
 - **GitHub**: [@sibija204](https://github.com/sibija204)
-- **Email**: sibijasibi1999@gmail.com
+- **Email**: sibijas1999@gmail.com
 
