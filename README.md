@@ -5,9 +5,10 @@ Aspiring Python Developer looking for Junior Developer role.
 I enjoy building practical applications with Python and learning new technologies.
 
 ## Skills
-- **Languages**: Python, HTML, CSS
+- **Programming**: Python
+- **Web**: HTML, CSS  
 - **Tools**: Git, GitHub, VS Code
-- **Database**: JSON
+- **Data Format**: JSON
 
 ## Projects
 
