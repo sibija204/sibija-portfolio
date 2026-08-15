@@ -1,9 +1,13 @@
 # Sibija's Portfolio 👋
 
-My Junior Developer Portfolio Website
-
 ## About Me
-Aspiring Python Developer
+Aspiring Python Developer looking for Junior Developer role.
+I enjoy building practical applications with Python and learning new technologies.
+
+## Skills
+- **Languages**: Python, HTML, CSS
+- **Tools**: Git, GitHub, VS Code
+- **Database**: JSON
 
 ## Projects
 
@@ -14,7 +18,10 @@ A simple command line To-Do List application.
 - **Files**: [todo.pdf1.pdf](todo.pdf1.pdf)
 
 ### 2. Weather App
-[weather.pdf](weather.pdf)
+Displays weather information.
+- **Tech**: Python
+- **Files**: [weather.pdf](weather.pdf)
 
 ## Contact
-GitHub: @sibija204
+- **GitHub**: [@sibija204](https://github.com/sibija204)
+- **Email**: sibijasibi1999@gmail.com
